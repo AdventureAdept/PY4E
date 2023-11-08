@@ -3,6 +3,6 @@
 
 [![Author](https://img.shields.io/badge/Author-AdventureAdept-blue)](https://www.github.com/AdventureAdept0)
 
-![GitHub language count](https://img.shields.io/github/languages/count/AbhishekMali21/PYTHON-FOR-EVERYBODY?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/AbhishekMali21/PYTHON-FOR-EVERYBODY?logoColor=9cf&style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/AbhishekMali21/PYTHON-FOR-EVERYBODY?logoColor=important&style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/AdventureAdept0/PY4E)
+![GitHub top language](https://img.shields.io/github/languages/top/AdventureAdept0/PY4E)
+![GitHub repo size](https://img.shields.io/github/repo-size/AdventureAdept0/PY4E)
