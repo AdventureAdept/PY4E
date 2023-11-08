@@ -16,7 +16,7 @@
 ![Cover](https://github.com/AdventureAdept0/PY4E/blob/main/cover.jpg)
 
 ## Contents
-|NO:|CHAPTER NAME|EXERCISES|
+|No:|Chapter Name|Exercises|
 |:-----:|:----------:|:--------------:|
 |1| Why Program?|[Chapter 1]()||
 |2| Variables, expressions and statements|[Chapter 2]()||
