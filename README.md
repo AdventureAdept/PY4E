@@ -17,7 +17,7 @@
 
 ## Contents
 |CHAPTER NO:|CHAPTER NAME|EXERCISES|
-|:----------:|:----------:|:--------------:|:------:|
+|:----------:|:----------:|:--------------:|
 |1| Why Program?|[Chapter 1]()||
 |2| Variables, expressions and statements|[Chapter 2]()||
 |3| Conditional Execution|[Chapter 3]()||
