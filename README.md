@@ -16,15 +16,15 @@
 ![Cover](https://github.com/AdventureAdept0/PY4E/blob/main/cover.jpg)
 
 ## Contents
-|CHAPTER NO:|CHAPTER NAME|PRACTICE|EXERCISES|
+|CHAPTER NO:|CHAPTER NAME|EXERCISES|
 |:----------:|:----------:|:--------------:|:------:|
-|1| Why Program?|[Chapter 1]()|[EXE]()|
-|2| Variables, expressions and statements|[Chapter 2]()|[EXE]()|
-|3| Conditional Execution|[Chapter 3]()|[EXE]()|
-|4| Functions|[Chapter 4]()|[EXE]()|
-|5| Loops and Iterations|[Chapter 5]()|[EXE]()|
-|6| Strings|[Chapter 6]()|[EXE]()|
-|7| Files|[Chapter 7]())|[EXE]()|
-|8| Lists|[Chapter 8]()|[EXE]()|
-|9| Dictionaries|[Chapter 9]()|[EXE]()|
-|10| Tuples|[Chapter 10]()|[EXE]()|
+|1| Why Program?|[Chapter 1]()|
+|2| Variables, expressions and statements|[Chapter 2]()|
+|3| Conditional Execution|[Chapter 3]()|
+|4| Functions|[Chapter 4]()|
+|5| Loops and Iterations|[Chapter 5]()|
+|6| Strings|[Chapter 6]()|
+|7| Files|[Chapter 7]())|
+|8| Lists|[Chapter 8]()|
+|9| Dictionaries|[Chapter 9]()|
+|10| Tuples|[Chapter 10]()|
