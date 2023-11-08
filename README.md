@@ -14,3 +14,17 @@
 [![LICENSE](https://img.shields.io/github/license/AdventureAdept0/PY4E?color=lime)](https://github.com/AdventureAdept0/PY4E/blob/main/LICENSE)
 
 ![Cover](https://github.com/AdventureAdept0/PY4E/blob/main/cover.jpg)
+
+## Contents
+|CHAPTER NO:|CHAPTER NAME|PRACTICE|EXERCISES|
+|:----------:|:----------:|:--------------:|:------:|
+|1| Why Program?|[Chapter 1]()|[EXE]()|
+|2| Variables, expressions and statements|[Chapter 2]()|[EXE]()|
+|3| Conditional Execution|[Chapter 3]()|[EXE]()|
+|4| Functions|[Chapter 4]()|[EXE]()|
+|5| Loops and Iterations|[Chapter 5]()|[EXE]()|
+|6| Strings|[Chapter 6]()|[EXE]()|
+|7| Files|[Chapter 7]())|[EXE]()|
+|8| Lists|[Chapter 8]()|[EXE]()|
+|9| Dictionaries|[Chapter 9]()|[EXE]()|
+|10| Tuples|[Chapter 10]()|[EXE]()|
