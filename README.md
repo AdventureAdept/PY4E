@@ -18,7 +18,7 @@
 
 ## Contents
 |No:|Chapter Name|Exercises|
-|:-----:|:----------:|:---------------:|
+|:-----:|:----------:|:----------------:|
 
 |1| Why Program?|[Chapter 1](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%201)||
 |2| Variables, expressions and statements|[Chapter 2](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%202)||
