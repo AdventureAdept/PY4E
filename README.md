@@ -20,13 +20,13 @@
 |No:|Chapter Name|Exercises|
 |:-----:|:----------:|:----------------:|
 
-|1| Why Program?|[Chapter 1](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%201)||
-|2| Variables, expressions and statements|[Chapter 2](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%202)||
-|3| Conditional Execution|[Chapter 3](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%203)||
-|4| Functions|[Chapter 4](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%204)||
-|5| Loops and Iterations|[Chapter 5](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%205)||
-|6| Strings|[Chapter 6](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%206)||
-|7| Files|[Chapter 7](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%207)||
-|8| Lists|[Chapter 8](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%208)||
-|9| Dictionaries|[Chapter 9](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%209)||
-|10| Tuples|[Chapter 10](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%2010)||
+|1| Why Program?|[Chapter 1]()||
+|2| Variables, expressions and statements|[Chapter 2]||
+|3| Conditional Execution|[Chapter 3](3)||
+|4| Functions|[Chapter 4](||
+|5| Loops and Iterations|[Chapter 5]()||
+|6| Strings|[Chapter 6]()||
+|7| Files|[Chapter 7]()||
+|8| Lists|[Chapter 8]()||
+|9| Dictionaries|[Chapter 9]()||
+|10| Tuples|[Chapter 10])||
