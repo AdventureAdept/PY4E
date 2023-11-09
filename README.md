@@ -21,12 +21,12 @@
 |:-----:|:----------:|:----------------:|
 
 |1| Why Program?|[Chapter 1]()||
-|2| Variables, expressions and statements|[Chapter 2]||
-|3| Conditional Execution|[Chapter 3](3)||
-|4| Functions|[Chapter 4](||
+|2| Variables, expressions and statements|[Chapter 2]()||
+|3| Conditional Execution|[Chapter 3]()||
+|4| Functions|[Chapter 4]()||
 |5| Loops and Iterations|[Chapter 5]()||
 |6| Strings|[Chapter 6]()||
 |7| Files|[Chapter 7]()||
 |8| Lists|[Chapter 8]()||
 |9| Dictionaries|[Chapter 9]()||
-|10| Tuples|[Chapter 10])||
+|10| Tuples|[Chapter 10]()||
