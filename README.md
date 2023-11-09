@@ -20,7 +20,6 @@
 |No:|Chapter Name|Exercises|
 |:-----:|:----------:|:---------------:|
 
-|0| Python For Everybody|[Chapter 0](https://github.com/AdventureAdept0/PY4E/blob/main/py4e.py)||
 |1| Why Program?|[Chapter 1](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%201)||
 |2| Variables, expressions and statements|[Chapter 2](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%202)||
 |3| Conditional Execution|[Chapter 3](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%203)||
