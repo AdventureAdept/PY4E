@@ -19,13 +19,13 @@
 ## Contents
 |NO:|Chapter Name|Exercise|
 |:-----:|:----------:|:--------------:|
-|1| WHY SHOULD YOU LEARN TO WRITE PROGRAMS?|[CHPT 1](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%201.ipynb)||
-|2| VARIABLES, EXPRESSIONS, AND STATEMENTS|[CHPT 2](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%202.ipynb)||
-|3| CONDITIONAL EXECUTION|[CHPT 3](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%203.ipynb)||
-|4| FUNCTIONS|[CHPT 4](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%204.ipynb)||
-|5| ITERATION|[CHPT 5](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%205.ipynb)||
-|6| STRINGS|[CHPT 6](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%206.ipynb)||
-|7| FILES|[CHPT 7](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%207.ipynb)||
-|8| LISTS|[CHPT 8](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%208.ipynb)||
-|9| DICTIONARIES|[CHPT 9](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%209.ipynb)||
-|10| TUPLES|[CHPT 10](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2010.ipynb)||
+|1| WHY SHOULD YOU LEARN TO WRITE PROGRAMS?|[CHPT 1]()||
+|2| VARIABLES, EXPRESSIONS, AND STATEMENTS|[CHPT 2]()||
+|3| CONDITIONAL EXECUTION|[CHPT 3]()||
+|4| FUNCTIONS|[CHPT 4]()||
+|5| ITERATION|[CHPT 5]()||
+|6| STRINGS|[CHPT 6]()||
+|7| FILES|[CHPT 7]()||
+|8| LISTS|[CHPT 8]()||
+|9| DICTIONARIES|[CHPT 9]()||
+|10| TUPLES|[CHPT 10]()||
