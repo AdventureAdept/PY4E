@@ -17,8 +17,8 @@
 ![Cover](https://github.com/AdventureAdept0/PY4E/blob/main/cover.jpg)
 
 ## Contents
-|CHAPTER NO:|CHAPTER NAME|PRACTICE|
-|:----------:|:----------:|:--------------:|
+|NO:|Chapter Name|Exercise|
+|:-----:|:----------:|:--------------:|
 |1| WHY SHOULD YOU LEARN TO WRITE PROGRAMS?|[CHPT 1](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%201.ipynb)||
 |2| VARIABLES, EXPRESSIONS, AND STATEMENTS|[CHPT 2](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%202.ipynb)||
 |3| CONDITIONAL EXECUTION|[CHPT 3](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%203.ipynb)||
