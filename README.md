@@ -19,6 +19,7 @@
 ## Contents
 |NO:|Chapter Name|Exercise|
 |:----:|:----------:|:--------------:|
+|0| Python For Eeveryone|[Chatper 0]()|
 |1| Why Program?|[Chapter 1]()||
 |2| Variables, expressions and statements|[Chapter 2]()||
 |3| Conditional Execution|[Chapter 3]()||
