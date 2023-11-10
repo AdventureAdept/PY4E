@@ -19,13 +19,13 @@
 ## Contents
 |NO:|Chapter Name|Exercise|
 |:----:|:----------:|:--------------:|
-|1| WHY SHOULD YOU LEARN TO WRITE PROGRAMS?|[Chapter 1]()||
-|2| VARIABLES, EXPRESSIONS, AND STATEMENTS|[Chapter 2]()||
-|3| CONDITIONAL EXECUTION|[Chapter 3]()||
-|4| FUNCTIONS|[Chapter 4]()||
-|5| ITERATION|[Chapter 5]()||
-|6| STRINGS|[Chapter 6]()||
-|7| FILES|[Chapter 7]()||
-|8| LISTS|[Chapter 8]()||
-|9| DICTIONARIES|[Chapter 9]()||
-|10| TUPLES|[Chapter 10]()||
+|1| Why Program?|[Chapter 1]()||
+|2| Variables, expressions and statements|[Chapter 2]()||
+|3| Conditional Execution|[Chapter 3]()||
+|4| Functions|[Chapter 4]()||
+|5| Loops and Iterations|[Chapter 5]()||
+|6| Strings|[Chapter 6]()||
+|7| Files|[Chapter 7]()||
+|8| Lists|[Chapter 8]()||
+|9| Dictionaries|[Chapter 9]()||
+|10| Tuples|[Chapter 10]()||
