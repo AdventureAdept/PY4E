@@ -18,7 +18,7 @@
 
 ## Contents
 |NO:|Chapter Name|Exercise|
-|:-----:|:----------:|:--------------:|
+|:----:|:----------:|:--------------:|
 |1| WHY SHOULD YOU LEARN TO WRITE PROGRAMS?|[CHPT 1]()||
 |2| VARIABLES, EXPRESSIONS, AND STATEMENTS|[CHPT 2]()||
 |3| CONDITIONAL EXECUTION|[CHPT 3]()||
