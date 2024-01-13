@@ -29,3 +29,5 @@
 |9| Dictionaries|[Chapter 9](https://github.com/AdventureAdept/PY4E/tree/main/Chapter%209)||
 |10| Tuples|[Chapter 10](https://github.com/AdventureAdept/PY4E/tree/main/Chapter%2010)||
 |11| Regular Expressions|[Chapter 11](https://github.com/AdventureAdept/PY4E/tree/main/Chapter%2011)||
+|12| Network Programming|[Chapter 12](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%2012)||
+|13| Using Web Services|[Chapter 13](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%2013)||
