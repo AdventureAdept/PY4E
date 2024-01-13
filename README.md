@@ -17,14 +17,15 @@
 ## Contents
 |NO:|Chapter Name|Exercise|
 |:----:|:----------:|:--------------:|
-|0| Python For Everyone|[Chatper 0](https://github.com/AdventureAdept0/PY4E/blob/main/py4e.py)|
-|1| Why Program?|[Chapter 1](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%201)||
-|2| Variables, expressions and statements|[Chapter 2](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%202)||
-|3| Conditional Execution|[Chapter 3](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%203)||
-|4| Functions|[Chapter 4](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%204)||
-|5| Loops and Iterations|[Chapter 5](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%205)||
-|6| Strings|[Chapter 6](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%206)||
-|7| Files|[Chapter 7](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%207)||
-|8| Lists|[Chapter 8](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%208)||
-|9| Dictionaries|[Chapter 9](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%209)||
-|10| Tuples|[Chapter 10](https://github.com/AdventureAdept0/PY4E/tree/main/Chapter%2010)||
+|0| Python For Everyone|[Chatper 0](https://github.com/AdventureAdept/PY4E/blob/main/py4e.py)|
+|1| Why Program?|[Chapter 1](https://github.com/AdventureAdept/PY4E/tree/main/Chapter%201)||
+|2| Variables, expressions and statements|[Chapter 2](https://github.com/AdventureAdept/PY4E/tree/main/Chapter%202)||
+|3| Conditional Execution|[Chapter 3](https://github.com/AdventureAdept/PY4E/tree/main/Chapter%203)||
+|4| Functions|[Chapter 4](https://github.com/AdventureAdept/PY4E/tree/main/Chapter%204)||
+|5| Loops and Iterations|[Chapter 5](https://github.com/AdventureAdept/PY4E/tree/main/Chapter%205)||
+|6| Strings|[Chapter 6](https://github.com/AdventureAdept/PY4E/tree/main/Chapter%206)||
+|7| Files|[Chapter 7](https://github.com/AdventureAdept/PY4E/tree/main/Chapter%207)||
+|8| Lists|[Chapter 8](https://github.com/AdventureAdept/PY4E/tree/main/Chapter%208)||
+|9| Dictionaries|[Chapter 9](https://github.com/AdventureAdept/PY4E/tree/main/Chapter%209)||
+|10| Tuples|[Chapter 10](https://github.com/AdventureAdept/PY4E/tree/main/Chapter%2010)||
+|11| Regular Expressions|[Chapter 11](https://github.com/AdventureAdept/PY4E/tree/main/Chapter%2011)||
