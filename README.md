@@ -1,5 +1,5 @@
 # PY4E
-| [Python for Everybody:](https://py4e.com/) | [Author - Charles R. Severance @csev](https://online.dr-chuck.com/) | [Chapter Quizes & Exercises](#Contents) |
+| [Python for Everybody](https://py4e.com/) | [Author - Charles R. Severance @csev](https://online.dr-chuck.com/) | [Chapter Quizes & Exercises](#Contents) |
 
 ## About
 [![Author](https://img.shields.io/badge/Author-AdventureAdept-blue)](https://www.github.com/AdventureAdept)
