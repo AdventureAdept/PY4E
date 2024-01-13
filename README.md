@@ -1,7 +1,7 @@
 # PY4E
 | Python for Everybody: Exploring Data in Python 3 | Author - Charles R. Severance @csev | Chapter Practices & Exercises |
 
-[![Author](https://img.shields.io/badge/Author-AdventureAdept-blue)](https://www.github.com/AdventureAdept0)
+[![Author](https://img.shields.io/badge/Author-AdventureAdept-blue)](https://www.github.com/AdventureAdept)
 
 ![GitHub language count](https://img.shields.io/github/languages/count/AdventureAdept0/PY4E)
 ![GitHub top language](https://img.shields.io/github/languages/top/AdventureAdept0/PY4E)
@@ -13,8 +13,6 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/AdventureAdept0/PY4E?color=lime)](https://github.com/AdventureAdept0/PY4E/pulls)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr/AdventureAdept0/PY4E?color=lime)](https://github.com/AdventureAdept0/PY4E/pulls?q=is%3Apr+is%3Aclosed)
 [![LICENSE](https://img.shields.io/github/license/AdventureAdept0/PY4E?color=lime)](https://github.com/AdventureAdept0/PY4E/blob/main/LICENSE)
-
-![Cover](https://github.com/AdventureAdept0/PY4E/blob/main/cover.jpg)
 
 ## Contents
 |NO:|Chapter Name|Exercise|
