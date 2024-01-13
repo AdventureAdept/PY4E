@@ -1,5 +1,5 @@
 # PY4E
-| [Python for Everybody:](https://py4e.com/) Exploring Data in Python 3 | Author - Charles R. Severance @csev | Chapter Practices & Exercises |
+| [Python for Everybody:](https://py4e.com/) Exploring Data in Python 3 | [Author - Charles R. Severance @csev](https://online.dr-chuck.com/) | Chapter Practices & Exercises |
 
 [![Author](https://img.shields.io/badge/Author-AdventureAdept-blue)](https://www.github.com/AdventureAdept)
 
