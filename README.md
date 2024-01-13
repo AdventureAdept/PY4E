@@ -1,5 +1,5 @@
 # PY4E
-| [Python for Everybody:](https://py4e.com/) | [Author - Charles R. Severance @csev](https://online.dr-chuck.com/) | Chapter Practices & Exercises |
+| [Python for Everybody:](https://py4e.com/) | [Author - Charles R. Severance @csev](https://online.dr-chuck.com/) | [Chapter Quizes & Exercises](#Contents) |
 
 [![Author](https://img.shields.io/badge/Author-AdventureAdept-blue)](https://www.github.com/AdventureAdept)
 
@@ -14,7 +14,7 @@
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr/AdventureAdept0/PY4E?color=lime)](https://github.com/AdventureAdept0/PY4E/pulls?q=is%3Apr+is%3Aclosed)
 [![LICENSE](https://img.shields.io/github/license/AdventureAdept0/PY4E?color=lime)](https://github.com/AdventureAdept0/PY4E/blob/main/LICENSE)
 
-## Contents
+# Contents
 |NO:|Chapter Name|Exercise|
 |:----:|:----------:|:--------------:|
 |0| Python For Everyone|[Chatper 0](https://github.com/AdventureAdept/PY4E/blob/main/py4e.py)|
